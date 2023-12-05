@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Titillium+Web:wght@200;300;400;600;700;900&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.jumbotron {
+  width: 100%;
+  height: 1053px;
+  background-image: url("bg\ 3.png");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.about-us {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin-top: 0;
+  margin-right: 20px;
+}
+
+.text {
+  margin-top: 0;
+  margin-left: 20px;
+  width: 100%;
+  max-width: 550px;
+  font-size: larger;
+  text-align: justify;
+}
+
+h2 {
+  color: #fed810;
+  margin-top: 50px;
+  font-weight: 900;
+}
+
+/* body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.jumbotron {
+  width: 1440px;
+  height: 1053px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  background-color: black;
+}
+
+.about-us {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 20px; /* Adjust as needed */
+/* } */
+
+/* img {
+  width: 300px;
+  height: auto;
+}
+
+.text {
+  margin-top: 20px;
+  max-width: 800px;
+  width: 100%;
+  color: white;
+}
+
+h2 {
+  color: #fed810;
+} */
